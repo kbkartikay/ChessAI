@@ -18,7 +18,3 @@ Now to play Chess Against this AI run :
 java AlphaBetaChess
 ```
 
-
-## Demo
-
-https://drive.google.com/file/d/1PYQOUaJbjtj6E1CzeK-_2kdprFBRLGhe/view?usp=sharing
